@@ -1,0 +1,27 @@
+{
+  "name": "brandbot",
+  "version": "1.0.0",
+  "description": "a bot for brandcast",
+  "main": "bot.js",
+  "dependencies": {
+    "botkit": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonychung14/brandbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "Tony Chung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonychung14/brandbot/issues"
+  },
+  "homepage": "https://github.com/anthonychung14/brandbot#readme"
+}
